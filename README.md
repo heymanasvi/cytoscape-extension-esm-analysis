@@ -25,3 +25,6 @@ This repository contains notes and observations from exploring how Cytoscape.js 
 - Standard package.json fields.
 - Simple structure for beginners.
 
+## Reference
+- These observations are based on reviewing the Cytoscape.js core repository and a few commonly used extensions on GitHub.
+
